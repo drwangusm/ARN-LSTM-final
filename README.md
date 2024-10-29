@@ -18,7 +18,7 @@ CSPC 2024 Website: Visit the CSPC website for details https://cspc.cs.usm.my/hom
 ## 2 Prerequisites
 ## Requirements
 
-  ![Python >=3.6](https://img.shields.io/badge/Python->=3.6-yellow.svg)    ![PyTorch >=1.6](https://img.shields.io/badge/PyTorch->=1.6-blue.svg)
+  ![Python >=3.8.16]()    ![Tensorflow >=2.8.0]()
 
 ## Installation
 
