@@ -1,6 +1,6 @@
 # ARN-LSTM-final
 ## Code for the paper "ARN-LSTM:A Multi-Stream Attention-Based Model for Action Recognition with Temporal Dynamics".
-It contains an implementation of our Attention Relation Long Shor-term Memory Network (ARN-LSTM ), an end-to-end NN tailored for Group Activity Recognition using Skeleton information. 
+It contains an implementation of our Attention Relation Long Shor-term Memory Network (ARN-LSTM ), an end-to-end NN model for Group Activity Recognition using Skeleton information. 
 
 
 <div align="center">
@@ -18,7 +18,7 @@ CSPC 2024 Website: Visit the CSPC website for details https://cspc.cs.usm.my/hom
 ## 2 Prerequisites
 ## Requirements
 
-  ![Python >=3.8.16]()    ![Tensorflow >=2.8.0]()
+  ![Python >=3.8.16](https://img.shields.io/badge/Python->=3.8.16-yellow.svg)    ![Tensorflow >=2.8.0](https://img.shields.io/badge/Tensorflow->=2.8.0-blue.svg)
 
 ## Installation
 
@@ -35,7 +35,9 @@ For all the datasets, be sure to read and follow their license agreements, and c
 
 
 ## Data Availability
-The datasets used or analyzed during the current study are available from the corresponding author upon reasonable request. The raw dataset was downloaded from the dataset home page https://rose1.ntu.edu.sg/dataset/actionRecognition/.There are 302 samples of **NTU RGB+D 60** and 532 samples of **NTU RGB+D 120** need to be ignored, which are shown in the **'src/reader/ntu_ignore.txt'**.
+The datasets used or analyzed during the current study are available from the corresponding author upon reasonable request. The raw dataset was downloaded from the dataset home page https://rose1.ntu.edu.sg/dataset/actionRecognition/.
+
+There are 302 samples of **NTU RGB+D 60** and 532 samples of **NTU RGB+D 120** need to be ignored, which are shown in the project **'src/dataset/NTU.py'** [link](https://github.com/shahroudy/NTURGB-D/blob/master/Matlab/NTU_RGBD_samples_with_missing_skeletons.txt).
 
 
 ## 3 Parameters
@@ -67,7 +69,7 @@ ARN-LSTM(joint+temporal+motion)				| 99.7%
 
 
 ## Acknowledgement
-We are very grateful for these excellent work [ST-GCN](https://github.com/yysijie/st-gcn),[IRN]（https://github.com/mauriciolp/inter-rel-net）,[PSTL](https://github.com/YujieOuO/PSTL), some thinks borrow from them.
+We are very grateful for these excellent work [ST-GCN](https://github.com/yysijie/st-gcn),[IRN](https://github.com/mauriciolp/inter-rel-net),[PSTL](https://github.com/YujieOuO/PSTL), some thinks borrow from them.
 
 ## Licence
 This project is licensed under the terms of the MIT license.
