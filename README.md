@@ -1,5 +1,6 @@
 # ARN-LSTM-final
-## Code for the paper "ARN-LSTM:A Multi-Stream Attention-Based Model for Action Recognition with Temporal Dynamics".
+# ARN-LSTM:A Multi-Stream Attention-Based Model for Action Recognition with Temporal Dynamics
+
 It contains an implementation of our Attention Relation Long Shor-term Memory Network (ARN-LSTM ), an end-to-end NN model for Group Activity Recognition using Skeleton information. 
 
 
