@@ -1,7 +1,7 @@
-# ARN-LSTM-final
 # ARN-LSTM:A Multi-Stream Attention-Based Model for Action Recognition with Temporal Dynamics
 
-It contains an implementation of our Attention Relation Long Shor-term Memory Network (ARN-LSTM ), an end-to-end NN model for Group Activity Recognition using Skeleton information. 
+> It contains an implementation of our Attention Relation Long Shor-term Memory Network (ARN-LSTM ), an
+> end-to-end NN model for Group Activity Recognition using Skeleton information. 
 
 
 <div align="center">
@@ -10,7 +10,7 @@ It contains an implementation of our Attention Relation Long Shor-term Memory Ne
 
 CSPC 2024 Website: Visit the CSPC website for details https://cspc.cs.usm.my/home
 
-# The code details will be soon when it is sorted well and the paper be published.
+## The code details will be soon when it is sorted well and the paper be published.
 
 # Dataset
 The datasets we used are as follows:
