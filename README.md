@@ -12,8 +12,7 @@ CSPC 2024 Website: Visit the CSPC website for details https://cspc.cs.usm.my/hom
 # The code details will be soon when it is sorted well and the paper be published.
 
 # Dataset
-## Dataset setup
-For all the datasets, be sure to read and follow their license agreements, and cite them accordingly. The datasets we used are as follows:
+The datasets we used are as follows:
 - [NTU RGB+D 60](https://arxiv.org/pdf/1604.02808.pdf)
 - [NTU RGB+D 120](https://arxiv.org/pdf/1905.04757.pdf)
 
