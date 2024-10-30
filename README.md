@@ -10,7 +10,7 @@
 
 CSPC 2024 Website: Visit the CSPC website for details https://cspc.cs.usm.my/home
 
-## The code details will be soon when it is sorted well and the paper be published.
+## The code details will be soon when it is sorted well.
 
 # Dataset
 The datasets we used are as follows:
