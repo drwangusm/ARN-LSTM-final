@@ -34,7 +34,7 @@ First you shoud modify the dataset directory path in NTU.py and NTU_V2.py files 
 Then, you can modify the configuration of the parameters in the 'configs/NTU_V1' or 'configs/NTU_V2' for different dataset.
 
 ## Training
-
+we have configure the params of configs file, only run the bash script as below:
 ```bash
 nohup bash final_train.sh > final_train.log 2>&1& 
 ```
