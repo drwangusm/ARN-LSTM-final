@@ -25,7 +25,7 @@ The raw dataset was downloaded from the dataset home page https://rose1.ntu.edu.
 
 There are 302 samples of **NTU RGB+D 60** and 532 samples of **NTU RGB+D 120** need to be ignored.Ref [link](https://github.com/shahroudy/NTURGB-D/blob/master/Matlab/NTU_RGBD_samples_with_missing_skeletons.txt).
 
-Due to database requirements in this paper, we provide restricted access to the reprocessed dataset[NTU RGB+D 60&120](https://doi.org/10.6084/m9.figshare.27427188.v1)
+Due to database requirements in this paper, we provide restricted access to the reprocessed dataset [NTU RGB+D 60&120](https://doi.org/10.6084/m9.figshare.27427188.v1)
 
 
 # Running
