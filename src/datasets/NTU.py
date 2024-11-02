@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import glob
 
-DATA_DIR = '/usr/local/inter-rel-net-hockey/data02/ntu-rgbd/'
+DATA_DIR = '/final/data02/ntu-rgbd/'
 
 """ Folder structure
     descs.csv

@@ -35,7 +35,7 @@ Due to database requirements in this paper, we provide restricted access to the 
 
 # Running
 ## Modify configs
-First you shoud modify the dataset directory path in NTU.py and NTU_V2.py files of the 'datasets' folder.
+First you shoud modify the dataset directory path in src/datasets/NTU.py and src/datasets/NTU_V2.py.
 Then, you can modify the configuration of the parameters in the 'configs/NTU_V1' or 'configs/NTU_V2' for different dataset.
 
 ## Training
