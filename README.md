@@ -10,8 +10,6 @@
 
 CSPC 2024 Website: Visit the CSPC website for details https://cspc.cs.usm.my/home
 
-## The code details will be soon when it is sorted well.
-
 # Requirements
   ![Python >=3.8.16](https://img.shields.io/badge/Python->=3.8.16-yellow.svg)    ![Tensorfolow >=2.8](https://img.shields.io/badge/Tensorflow->=2.8-blue.svg)
 
