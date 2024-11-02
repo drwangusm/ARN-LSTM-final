@@ -13,6 +13,13 @@ CSPC 2024 Website: Visit the CSPC website for details https://cspc.cs.usm.my/hom
 # Requirements
   ![Python >=3.8.16](https://img.shields.io/badge/Python->=3.8.16-yellow.svg)    ![Tensorfolow >=2.8](https://img.shields.io/badge/Tensorflow->=2.8-blue.svg)
 
+```
+ conda create -n ARN-LSTM-final python=3.8.16
+
+ conda activate ARN-LSTM-final
+
+ pip install tensorflow-gpu==2.8.0
+```
 
 # Dataset
 The datasets we used are as follows:
@@ -36,7 +43,7 @@ We have configured the parameters of the configs file, to train and evaluate the
 ```bash
 nohup bash final_train.sh > final_train.log 2>&1& 
 ```
-Models and results will be saved at folder: 'runs/DATASET/EXPERIMENT_NAME/'. 
+Models and results will be saved at folder: 'runs/dataset/experiment_name/'. 
 
 ## Results
 The results of the trained model can be downloaded directly from this URL:[ARN-LSTM-final/runs](https://pan.baidu.com/s/13wNtjMzL28rsJGaaCbe9bQ?pwd=3u5u)
